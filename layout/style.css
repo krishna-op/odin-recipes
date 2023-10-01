@@ -1,0 +1,49 @@
+body {
+    background-color: peachpuff;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto 8px;
+    border: solid 8px peachpuff;
+}
+
+h1,
+h2 {
+    background-color: peachpuff;
+    text-align: center;
+    margin: 0 auto 8px;
+}
+
+p {
+    padding: 8px;
+    border-bottom: solid 8px white;
+}
+
+.container {
+    background-color: white;
+    width: 416px;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+p,
+.recipes {
+    background-color: peachpuff;
+    margin-block: 0px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* .container .recipes img {
+    display: block;
+    width: 263px;
+    height: 255px;
+} */
+
