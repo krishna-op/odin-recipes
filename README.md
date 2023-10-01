@@ -3,4 +3,4 @@ Website for receipe:
 - basmati rice
 - naan
 
-Note: using only basic html5 and its elements
+Note: using only basic html5 and CSS
