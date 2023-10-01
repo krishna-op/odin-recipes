@@ -1,0 +1,54 @@
+body {
+    background-color: peachpuff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: white;
+    width: 600px;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title,
+h2 {
+    background-color: peachpuff;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+h2 {
+    text-align: left;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+h3 {
+    padding: 8px;
+    margin: 8px auto 0px;
+}
+
+ul {
+    margin: 0px auto 8px;
+}
+
+.photo {
+    background-color: peachpuff;
+    display: block;
+    margin: 0 auto 8px;
+    border: solid 8px peachpuff;
+}
+
+.requirements {
+    background-color: peachpuff;
+    margin: 8px auto;
+}
+
+.directions {
+    background-color: peachpuff;
+    margin: 0 auto;
+    padding: 8px 8px 8px 24px;
+}
+
+
